@@ -19,3 +19,25 @@ C:\Users\rohit\source\repos\ConsoleApp3\obj\Debug\net8.0\refint\QR Code Generato
 C:\Users\rohit\source\repos\ConsoleApp3\obj\Debug\net8.0\QR Code Generator.pdb
 C:\Users\rohit\source\repos\ConsoleApp3\obj\Debug\net8.0\QR Code Generator.genruntimeconfig.cache
 C:\Users\rohit\source\repos\ConsoleApp3\obj\Debug\net8.0\ref\QR Code Generator.dll
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\QR Code Generator.exe
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\QR Code Generator.deps.json
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\QR Code Generator.runtimeconfig.json
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\QR Code Generator.dll
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\QR Code Generator.pdb
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\QRCoder.dll
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\.net project\QR-Code-Generator\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.csproj.AssemblyReference.cache
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.AssemblyInfoInputs.cache
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.AssemblyInfo.cs
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.csproj.CoreCompileInputs.cache
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.sourcelink.json
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code .13F663A7.Up2Date
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.dll
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\refint\QR Code Generator.dll
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.pdb
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\QR Code Generator.genruntimeconfig.cache
+E:\.net project\QR-Code-Generator\obj\Debug\net8.0\ref\QR Code Generator.dll

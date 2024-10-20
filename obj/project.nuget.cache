@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJp9Jt+InGM=",
+  "dgSpecHash": "8c77WIq7akE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rohit\\source\\repos\\ConsoleApp3\\QR Code Generator.csproj",
+  "projectFilePath": "E:\\.net project\\QR-Code-Generator\\QR Code Generator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
