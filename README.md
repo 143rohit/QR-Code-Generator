@@ -36,8 +36,8 @@ A simple console application developed in C# that generates QR codes from user-i
 * Save QR Code: The QR code will be saved as qrcode.png in the specified directory 
 * Open Image: The generated QR code image will automatically open after creation.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 ## Author
 Rohit Gaikwad - [GitHub Profile](https://github.com/rgaikwad7749)
