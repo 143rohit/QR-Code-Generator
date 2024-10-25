@@ -11,8 +11,8 @@ A simple console application developed in C# that generates QR codes from user-i
 ## Technologies Used
 
 - C# (.NET Core)
-- [QRCoder](https://github.com/codebude/QRCoder) for QR code generation
-- [ImageSharp](https://github.com/SixLabors/ImageSharp) for image handling
+- QRCoder for QR code generation
+- ImageSharp for image handling
 - Console Application
 
 ## Installation
