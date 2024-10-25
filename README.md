@@ -19,7 +19,7 @@ A simple console application developed in C# that generates QR codes from user-i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QRCodeGenerator.git
+   git clone https://github.com/rgaikwad7749/QR-Code-Generator.git
 2. Open the project in your preferred C# IDE (e.g., Visual Studio or Visual Studio Code).
 3. Restore dependencies and build the project.
 4. Run the application.
